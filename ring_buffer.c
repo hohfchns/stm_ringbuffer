@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdint.h>
-#include "adt/adt_ring_buffer.h"
+#include "ring_buffer.h"
 
 
 void debugRingBuffer(RingBuffer* ringBuffer);
